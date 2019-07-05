@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23b00c6e-fa87-4dda-adf7-e3a8befbdf99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../assignment2/src/main/java/com/stackroute/p2/EvenNumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment2/src/main/java/com/stackroute/p2/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment2/src/main/java/com/stackroute/p2/MemberVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment2/src/main/java/com/stackroute/p2/Pallindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment2/src/main/java/com/stackroute/p2/PowerOfFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment2/src/main/java/com/stackroute/p2/ReadContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment2/src/main/java/com/stackroute/p2/StudentGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment2/src/main/test/com/stackroute/p2/EvenNumTestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment2/src/main/test/com/stackroute/p2/FactorialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment2/src/main/test/com/stackroute/p2/MemberVariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment2/src/main/test/com/stackroute/p2/PallindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment2/src/main/test/com/stackroute/p2/PowerOfFourTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment2/src/main/test/com/stackroute/p2/ReadContentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment2/src/main/test/com/stackroute/p2/StudentGradesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentp1/.idea/libraries/hamcrest_all_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentp1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentp1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentp1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentp1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentp1/src/main/test/com/stackroute/p1/DetermineInputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentp1/src/main/test/com/stackroute/p1/GuessNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentp1/src/main/test/com/stackroute/p1/IntegerCheckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentp1/src/main/test/com/stackroute/p1/PalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentp1/src/main/test/com/stackroute/p1/PatternTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentp1/src/main/test/com/stackroute/p1/RepeatStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentp1/src/main/test/com/stackroute/p1/ReverseStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentp1/src/main/test/com/stackroute/p1/ScanNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentp1/src/main/test/com/stackroute/p1/SortAndSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentp1/src/main/test/com/stackroute/p1/VowelConsonantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/java/com/stackroute/p3/StudentMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/java/com/stackroute/p3/VowelRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/java/com/stackroute/p3/chessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/java/com/stackroute/p3/consecutiveNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/java/com/stackroute/p3/dateDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/java/com/stackroute/p3/negativeArrayExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/java/com/stackroute/p3/tryCatchFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/test/com/stackroute/p3/StudentMarksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/test/com/stackroute/p3/VowelRemoveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/test/com/stackroute/p3/chessBoardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/test/com/stackroute/p3/consecutiveNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/test/com/stackroute/p3/dateDayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/src/main/java/com/stackroute/p4/FindHarry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/src/main/java/com/stackroute/p4/FrequencyOfChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/src/main/java/com/stackroute/p4/MatcherString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/src/main/java/com/stackroute/p4/ReplaceString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/src/main/java/com/stackroute/p4/SortStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/src/main/java/com/stackroute/p4/TransposeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/src/main/test/com/stackroute/p4/FindHarryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/src/main/test/com/stackroute/p4/FrequencyOfCharTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/src/main/test/com/stackroute/p4/MatcherStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/src/main/test/com/stackroute/p4/ReplaceStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/src/main/test/com/stackroute/p4/SortStringsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/src/main/test/com/stackroute/p4/TransposeStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p5/ArrayListUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p5/FrequencyCountWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p5/ArrayListUpdateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p5/FrequencyCountWordsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../html5-boilerplate/css/first.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../html5-boilerplate/css/first.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../html5-boilerplate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../html5-boilerplate/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/ArrayListUpdate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p5/ArrayListUpdateTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="564">
+              <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/MainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/ModifyMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/SortTheSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/StudentSorter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="56" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/ArrayOfStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/FrequencyCountWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p5/FrequencyCountWordsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p5/ArrayListUpdateTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p5/FrequencyCountWordsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p5/ArrayListUpdate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p5/FrequencyCountWords.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p5/ArrayOfStrings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p5/ModifyMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p5/SortTheSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p5/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p5/StudentSorter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="47" />
+    <option name="width" value="1400" />
+    <option name="height" value="833" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="exercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+              <item name="p5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+              <item name="p5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.stackroute.p5" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FrequencyCountWordsTest">
+    <configuration name="ArrayListUpdateTest.arrayListStringUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.p5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.p5" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.p5.ArrayListUpdateTest" />
+      <option name="METHOD_NAME" value="arrayListStringUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrequencyCountWordsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.p5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.p5" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.p5.FrequencyCountWordsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrequencyCountWordsTest.conutWordsInMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.p5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.p5" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.p5.FrequencyCountWordsTest" />
+      <option name="METHOD_NAME" value="conutWordsInMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FrequencyCountWordsTest" />
+        <item itemvalue="JUnit.FrequencyCountWordsTest.conutWordsInMap" />
+        <item itemvalue="JUnit.ArrayListUpdateTest.arrayListStringUpdate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23b00c6e-fa87-4dda-adf7-e3a8befbdf99" name="Default Changelist" comment="" />
+      <created>1562155206606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562155206606</updated>
+      <workItem from="1562155208663" duration="1961000" />
+      <workItem from="1562212009093" duration="6644000" />
+      <workItem from="1562301675822" duration="1016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ArrayListUpdateTest_arrayListStringUpdate - 2019.07.04 at 09h 29m 40s.xml">
+      <configuration name="ArrayListUpdateTest.arrayListStringUpdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListUpdateTest_arrayListStringUpdate - 2019.07.04 at 09h 30m 36s.xml">
+      <configuration name="ArrayListUpdateTest.arrayListStringUpdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListUpdateTest_arrayListStringUpdate - 2019.07.04 at 09h 32m 54s.xml">
+      <configuration name="ArrayListUpdateTest.arrayListStringUpdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListUpdateTest_arrayListStringUpdate - 2019.07.04 at 09h 33m 08s.xml">
+      <configuration name="ArrayListUpdateTest.arrayListStringUpdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrequencyCountWordsTest_conutWordsInMap - 2019.07.04 at 14h 45m 17s.xml">
+      <configuration name="FrequencyCountWordsTest.conutWordsInMap" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrequencyCountWordsTest_conutWordsInMap - 2019.07.04 at 14h 45m 34s.xml">
+      <configuration name="FrequencyCountWordsTest.conutWordsInMap" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrequencyCountWordsTest_conutWordsInMap - 2019.07.04 at 14h 46m 00s.xml">
+      <configuration name="FrequencyCountWordsTest.conutWordsInMap" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrequencyCountWordsTest - 2019.07.04 at 14h 47m 43s.xml">
+      <configuration name="FrequencyCountWordsTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9621000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1600" height="875" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25642672" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3288948" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p5/FrequencyCountWordsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p5/ArrayListUpdateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/UpdateArrayElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/FindNumberOfCounts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/FrequencyCountWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/ArrayListUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/ArrayOfStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/ModifyMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/SortTheSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p5/StudentSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="56" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
